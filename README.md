@@ -7,7 +7,8 @@ This repository contains the architectures and scripts used to train the model f
 
 To train the model:
 ```bash
-./train.sh```
+./train.sh
+```
 
 # Architecture
 
